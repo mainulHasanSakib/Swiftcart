@@ -29,6 +29,7 @@ function displayProducts(Products){
         <div class="card  shadow-sm">
   <figure>
     <img
+    class="h-90 w-80 bg-blue-200 p-10"
       src="${image}"
       alt="Shoes" />
   </figure>
